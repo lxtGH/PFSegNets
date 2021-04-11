@@ -1,1 +1,1 @@
-## The code and models will be released beforce the CVPR conference.
+## The code and models will be released before the CVPR conference.
