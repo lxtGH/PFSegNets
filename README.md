@@ -1,6 +1,9 @@
 # PFSegNets
 This repo contains the the implementation of Our CVPR-2021 work: PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation
 
+# To do 
+Add more models (at least 15 models)
+
 The master branch works with PyTorch 1.5 and python 3.7.6.
 # DataSet preparation
 1. Downloading [iSAID](https://captain-whu.github.io/iSAID/), [Potsdam](https://www2.isprs.org/commissions/comm2/wg4/benchmark/2d-sem-label-potsdam/) and
