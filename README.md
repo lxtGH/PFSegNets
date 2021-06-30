@@ -2,7 +2,10 @@
 This repo contains the the implementation of Our CVPR-2021 work: PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation
 
 # To do 
-Add more models (at least 15 models)
+
+- [x] Support PointFlow Models
+- [ ] Add more Models (at least 15 models)
+- [ ] Add Transformer-like Models
 
 The master branch works with PyTorch 1.5 and python 3.7.6.
 # DataSet preparation
