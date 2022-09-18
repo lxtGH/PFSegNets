@@ -1,6 +1,9 @@
 # PFSegNets
 This repo contains the the implementation of Our CVPR-2021 work: PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation
 
+## PFSegNet implemented by [Jittor from THU](https://github.com/Jittor/PFSegNets-Jittor).
+
+
 # To do 
 
 - [x] Support PointFlow Models
