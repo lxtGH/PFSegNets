@@ -29,6 +29,11 @@ mkdir data
 cd data
 ln -s your_iSAID_root_data_path iSAID
 
+```
+
+# Install the extension for other models
+
+```
 # install the extension 
 python setup.py develop
 ```
