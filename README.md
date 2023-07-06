@@ -7,8 +7,7 @@ This repo contains the the implementation of Our CVPR-2021 work: PointFlow: Flow
 # To do 
 
 - [x] Support PointFlow Models
-- [ ] Add more Models (at least 15 models)
-- [ ] Add Transformer-like Models
+- [x] Add more Models (at least 15 models)
 
 The master branch works with PyTorch 1.5 and python 3.7.6.
 # DataSet preparation
@@ -29,6 +28,9 @@ Or, you can link the data path into current folder.
 mkdir data 
 cd data
 ln -s your_iSAID_root_data_path iSAID
+
+# install the extension 
+python setup.py develop
 ```
 
 Actually, the order of steps 2 and 3 is interchangeable.
